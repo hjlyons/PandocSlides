@@ -18,6 +18,10 @@ fontsize: 8pt
 \centering
 \includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
 
+## Figure Example, Top Align {.t}
+\centering
+\includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
+
 ## Columns
 
 ::: columns
