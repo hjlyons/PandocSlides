@@ -14,7 +14,7 @@ fontsize: 8pt
 
 # Section
 
-## Title
+## Figure Example
 \centering
 \includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
 
@@ -31,3 +31,10 @@ fontsize: 8pt
 ::::
 
 :::
+
+## Table
+
+| A | B | C |
+|---:|---|:---|
+| etc | etc | etc |
+| etc | etc | etc |
