@@ -14,6 +14,11 @@ fontsize: 8pt
 
 # Section
 
+# General LaTeX Commands
+
+Add some vertical space between items...
+\bigskip
+
 ## Figure Example
 \centering
 \includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
