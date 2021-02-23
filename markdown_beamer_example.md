@@ -68,3 +68,7 @@ echo $c
 ```
 generic_txt: "test"
 ```
+
+## URL example
+
+[label](http://www.google.com)
