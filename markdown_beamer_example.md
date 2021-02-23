@@ -21,11 +21,11 @@ Add some vertical space between items...
 
 ## Figure Example
 \centering
-\includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
+\includegraphics[width=0.48\textwidth]{style/logos.png}
 
 ## Figure Example, Top Align {.t}
 \centering
-\includegraphics[width=0.48\textwidth]{example_plot/filename.pdf}
+\includegraphics[width=0.48\textwidth]{style/logos.png}
 
 ## Columns
 
