@@ -47,3 +47,24 @@ Add some vertical space between items...
 |---:|---|:---|
 | etc | etc | etc |
 | etc | etc | etc |
+
+## Code Snippets
+
+```python
+if True:
+    print("test")
+```
+
+\bigskip
+
+
+```bash
+c="test"
+echo $c
+```
+
+\bigskip
+
+```
+generic_txt: "test"
+```
