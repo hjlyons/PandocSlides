@@ -3,7 +3,8 @@
 DATE=$(date '+%Y_%m_%d');
 TAG=PRESENTATION
 
-if pandoc markdown_beamer_example.md -t beamer -o ${DATE}_${TAG}.pdf --slide-level 2 --include-in-header style/my_style.tex --toc ; then
+#if pandoc markdown_beamer_example.md -t beamer -o ${DATE}_${TAG}.pdf --slide-level 2 --include-in-header style/my_style.tex --toc ; then
+if pandoc markdown_beamer_example.md -t beamer -o ${DATE}_${TAG}.pdf --slide-level 2 --include-in-header style/my_style.tex; then
     open .
 fi
 
